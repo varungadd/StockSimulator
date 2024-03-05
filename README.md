@@ -1,4 +1,3 @@
-![WhatsApp Image 2024-03-05 at 2 23 38 PM](https://github.com/varungadd/StockSimulator/assets/140293360/e3a93
 ![WhatsApp Image 2024-03-05 at 2 22 33 PM](https://github.com/varungadd/StockSimulator/assets/140293360/a397def8-a6f2-4ac2-808a-5d4fb85346b3)
 ![WhatsApp Image 2024-03-05 at 2 11 44 PM](https://github.com/varungadd/StockSimulator/assets/140293360/a14361c8-38d2-436d-ab04-a29b43e457fb)
 ![WhatsApp Image 2024-03-05 at 2 11 44 PM](https://github.com/varungadd/StockSimulator/assets/140293360/ac2cf028-b529-40d9-8cac-94a5c334a565)
@@ -16,21 +15,21 @@
 ![WhatsApp Image 2024-03-05 at 2 16 25 PM](https://github.com/varungadd/StockSimulator/assets/140293360/faa9c932-3217-4da9-8fe4-c6541709cbab)
 ![WhatsApp Image 2024-03-05 at 2 13 08 PM](https://github.com/varungadd/StockSimulator/assets/140293360/6373f047-228a-4ccd-9eb4-6fa4bd6df0be)
 
-ef7-220a-4016-b30c-45f8d4d1df74)
-![WhatsApp Image 2024-03-05 at 2 23 18 P
-![Upl
-![WhatsApp Image 2024-03-05 at 2 16 25 PM](https://github.com/varungadd/StockSimulator/assets/140293360/46e566c0-f86f-45b2-a22e-d4728195b2c8)
-![WhatsApp Image 2024-03-05 at 2 13 08 PM](https://github.com/varungadd/StockSimulator/assets/140293360/d002112e-2933-421a-96e9-4d59df28aa32)
-![WhatsApp Image 2024-03-05 at 2 13 08 PM](https://github.com/varungadd/StockSimulator/assets/140293360/29797a64-5a93-4953-911f-68e3f935858d)
-![WhatsApp Image 2024-03-05 at 2 13 08 PM](https://github.com/varungadd/StockSimulator/assets/140293360/8a07ad87-6471-4bea-a59e-03a4a427b020)
-![WhatsApp Image 2024-03-05 at 2 11 44 PM](https://github.com/varungadd/StockSimulator/assets/140293360/a14361c8-38d2-436d-ab04-a29b43e457fb)
-oading WhatsApp Image 2024-03-05 at 2.13.08 PM.jpeg…]()
-M](https://github.com/varungadd/StockSimul
-![WhatsApp Image 2024-03-05 at 2 22 33 PM](https://github.com/varungadd/StockSimulator/assets/140293360/6ed88b39-fa52-4cc4-85d5-79c1426a9f13)
-ator/assets/140293360/6931fad2-1a03-4
-![WhatsApp Image 2024-03-05 at 2 22 33 PM](https://github.com/varungadd/StockSimulator/assets/140293360/268204c0-c4c7-460e-8192-c346e3076131)
-![WhatsApp Image 2024-03-05 at 2 16 25 PM](https://github.com/varungadd/StockSimulator/assets/140293360/141d6828-0b87-46b8-af43-17ef88c68900)
-![WhatsApp Image 2024-03-05 at 2 16 25 PM](https://github.com/varungadd/StockSimulator/assets/140293360/46e566c0-f86f-45b2-a22e-d4728195b2c8)
-![WhatsApp Image 2024-03-05 at 2 16 25 PM](https://github.com/varungadd/StockSimulator/assets/140293360/c2b4293b-c24c-4a7f-bcc6-9c2151a3111c)
-953-b888-5e0025d6e841)
-![WhatsApp Image 2024-03-05 at 2 23 18 PM](https://github.com/varungadd/StockSimulator/assets/140293360/324abb5f-6738-4ce7-a6ee-cccd4392fccb)
+![WhatsApp Image 2024-03-05 at 4 03 43 PM](https://github.com/varungadd/StockSimulator/assets/140293360/63236049-c4df-44b0-86cf-deebf0c667bc)
+![WhatsApp Image 2024-03-05 at 4 03 16 PM](https://github.com/varungadd/StockSimulator/assets/140293360/aca3800b-ccd3-4462-b717-497f798e687c)
+![WhatsApp Image 2024-03-05 at 4 03 03 PM](https://github.com/varungadd/StockSimulator/assets/140293360/f8fe0e2a-b8bf-42b4-8f7c-323ab1ec4929)
+![WhatsApp Image 2024-03-05 at 4 03 43 PM](https://github.com/varungadd/StockSimulator/assets/140293360/ba05a5ca-c643-4ff2-bf1a-ec289d47c545)
+![WhatsApp Image 2024-03-05 at 4 03 43 PM](https://github.com/varungadd/StockSimulator/assets/140293360/b8d03583-3d85-4236-a083-bd6b97441c4f)
+![WhatsApp Image 2024-03-05 at 4 03 16 PM](https://github.com/varungadd/StockSimulator/assets/140293360/4ff29ec6-82f6-4f35-8e6f-e4c5215f8bc6)
+![WhatsApp Image 2024-03-05 at 4 03 16 PM](https://github.com/varungadd/StockSimulator/assets/140293360/89da0e0b-33d4-49ca-acad-1f6dfb8a648c)
+![WhatsApp Image 2024-03-05 at 4 03 10 PM](https://github.com/varungadd/StockSimulator/assets/140293360/37911caa-8e9a-4f4e-a367-f7e4bd868748)
+
+![WhatsApp Image 2024-03-05 at 4 03 10 PM](https://github.com/varungadd/StockSimulator/assets/140293360/dbb60e1a-b27f-49ea-acd5-e085d178f05f)
+![WhatsApp Image 2024-03-05 at 4 03 03 PM](https://github.com/varungadd/StockSimulator/assets/140293360/4c8e7d0d-860a-4300-8df6-f1d1e1884f3f)
+![WhatsApp Image 2024-03-05 at 4 03 03 PM](https://github.com/varungadd/StockSimulator/assets/140293360/f8fe0e2a-b8bf-42b4-8f7c-323ab1ec4929)
+![WhatsApp Image 2024-03-05 at 4 03 03 PM](https://github.com/varungadd/StockSimulator/assets/140293360/30dac1b6-7862-42ba-8cd5-cd8638537a7f)
+![WhatsApp Image 2024-03-05 at 4 03 43 PM](https://github.com/varungadd/StockSimulator/assets/140293360/ba05a5ca-c643-4ff2-bf1a-ec289d47c545)
+
+![WhatsApp Image 2024-03-05 at 4 03 10 PM](https://github.com/varungadd/StockSimulator/assets/140293360/dbb60e1a-b27f-49ea-acd5-e085d178f05f)
+.03.16 PM.jpeg…]()
+![WhatsApp Image 2024-03-05 at 4 03 10 PM](https://github.com/varungadd/StockSimulator/assets/140293360/a20673ab-2306-43b0-89d4-7858fbee6998)
