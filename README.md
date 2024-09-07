@@ -1,3 +1,64 @@
+Stock Master Simulator A user-friendly web application for simulating stock trading with real-time market data and educational resources.
+
+📋 Table of Contents
+
+📖 Introduction
+
+✨ Features
+
+💻 Tech Stack
+
+🚀 Setup
+
+🔧 Usage
+
+🤝 Contributing
+
+📜 License
+
+📖 Introduction
+
+Stock Master Simulator is an engaging stock market simulation game designed to make financial literacy accessible to everyone. It provides a safe environment for users to learn stock trading without the fear of losing money. The application reflects real-time market conditions and offers a realistic yet risk-free way to gain practical experience and confidence in stock trading.
+
+✨ Features Real-Time Trading: Simulate stock trading with real-time market data. Educational Content: Learn through tutorials, guides, and in-game tips. Historical Data Analysis: Analyze historical stock data to improve your trading strategies. User-Friendly Interface: Intuitive and accessible UI for both beginners and experienced traders. Virtual Competitions: Participate in virtual competitions to test your trading skills.
+
+💻 Tech Stack Frontend:
+
+HTML5 CSS3
+
+Backend:
+
+Java
+
+Tools & Libraries:
+
+SQL Swing
+
+🚀 Setup
+
+Prerequisites
+
+Java Development Kit (JDK) SQL database setup IDE or text editor for Java development
+
+Installation Clone the repository:
+
+git clone https://github.com/varungadd/StockSimulator.git cd StockSimulator Open the project in your preferred IDE.
+
+Set up the SQL database as per the provided configurations.
+
+Compile and run the application:
+
+javac Main.java java Main
+
+🔧 Usage
+
+Launch the application. Use the main menu to navigate through different features such as live trading, historical data analysis, and tutorials. Follow on-screen instructions to start trading, upload images for defect detection, or participate in virtual competitions.
+
+🤝 Contributing Contributions are welcome! Please follow these steps:
+
+Fork the repository. Create a new branch (git checkout -b feature/your-feature-name). Commit your changes (git commit -m 'Add some feature'). Push to the branch (git push origin feature/your-feature-name). Open a pull request.
+
+📜 License This project is licensed under the MIT License. See the LICENSE file for details.
 ![WhatsApp Image 2024-03-05 at 2 22 33 PM](https://github.com/varungadd/StockSimulator/assets/140293360/a397def8-a6f2-4ac2-808a-5d4fb85346b3)
 ![WhatsApp Image 2024-03-05 at 2 11 44 PM](https://github.com/varungadd/StockSimulator/assets/140293360/a14361c8-38d2-436d-ab04-a29b43e457fb)
 ![WhatsApp Image 2024-03-05 at 2 11 44 PM](https://github.com/varungadd/StockSimulator/assets/140293360/ac2cf028-b529-40d9-8cac-94a5c334a565)
@@ -31,5 +92,4 @@
 ![WhatsApp Image 2024-03-05 at 4 03 43 PM](https://github.com/varungadd/StockSimulator/assets/140293360/ba05a5ca-c643-4ff2-bf1a-ec289d47c545)
 
 ![WhatsApp Image 2024-03-05 at 4 03 10 PM](https://github.com/varungadd/StockSimulator/assets/140293360/dbb60e1a-b27f-49ea-acd5-e085d178f05f)
-.03.16 PM.jpeg…]()
 ![WhatsApp Image 2024-03-05 at 4 03 10 PM](https://github.com/varungadd/StockSimulator/assets/140293360/a20673ab-2306-43b0-89d4-7858fbee6998)
